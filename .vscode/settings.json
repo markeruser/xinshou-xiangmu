@@ -3,5 +3,6 @@
     "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [
         "."
-    ]
+    ],
+    "git.autofetch": true
 }
