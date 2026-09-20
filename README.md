@@ -12,7 +12,7 @@
 - 除数为 0 时会抛出明确错误
 - 使用 pytest 覆盖正常运算与异常情况
 
-### 鹈鹕的兜风日
+### 鹈鹕的兜风日（3D版）
 
 路径：[`projects/pelican-bike/`](projects/pelican-bike/)
 
