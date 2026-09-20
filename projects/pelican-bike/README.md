@@ -1,4 +1,4 @@
-# 🦩 鹈鹕的兜风日 · Pelican on Wheels
+# 🦩 鹈鹕的兜风日（3D版） · Pelican on Wheels
 
 一个用 three.js 打造的 3D 互动小场景：一只白色鹈鹕，骑着薄荷绿的小自行车，在海风里慢慢兜风。
 
