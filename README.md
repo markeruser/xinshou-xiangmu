@@ -38,12 +38,4 @@
 
 ---
 
-## 把你的计算规则或展示想法做成可用的小工具
-
-[![接单中](https://img.shields.io/badge/状态-接单中-2ea44f?style=for-the-badge)](mailto:mootszuzegajiyuxi@gmail.com)
-
-可沟通付费开发：按明确规则制作 Python 计算小工具，调整网页布局与交互，或制作可旋转、调节和暂停的 3D 互动展示页面。
-
-上面的项目是学习与功能演示，便于了解实现方向。具体能否承接、费用及交付时间，需要结合实际使用场景确认。
-
-欢迎将目前的处理方式、需要解决的问题、参考效果和期望时间发到 [mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com)。先把需求说清楚，再确定定制方案。
+接展示页面、互动网页和计算小工具的付费定制。联系：[mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com)。
