@@ -1,30 +1,30 @@
 # xinshou-xiangmu
 
-这是一个用于学习与实验的小项目合集，内容已按项目分类整理。
+A collection of small projects for learning and experiments, organized by project.
 
-## 项目
+## Projects
 
-### 四则运算计算器
+### Four-function calculator
 
-路径：[`projects/calculator/`](projects/calculator/)
+Path: [`projects/calculator/`](projects/calculator/)
 
-- 提供加、减、乘、除四个函数
-- 除数为 0 时会抛出明确错误
-- 使用 pytest 覆盖正常运算与异常情况
+- Provides add, subtract, multiply, and divide functions
+- Raises a clear error when the divisor is 0
+- Uses pytest to cover normal operations and error cases
 
-### 鹈鹕的兜风日（3D版）
+### Pelican Joyride (3D)
 
-路径：[`projects/pelican-bike/`](projects/pelican-bike/)
+Path: [`projects/pelican-bike/`](projects/pelican-bike/)
 
-- 基于 Three.js r186 的 3D 互动网页
-- 支持速度、亮度、暂停和相机交互
-- Three.js 已放在项目目录内，可离线运行
+- A 3D interactive web page built with Three.js r186
+- Supports speed, brightness, pause, and camera interaction
+- Three.js is bundled in the project directory and runs offline
 
-## 素材
+## Assets
 
-图片素材统一放在 [`assets/`](assets/) 目录。
+Image assets are stored in the [`assets/`](assets/) directory.
 
-## 目录结构
+## Structure
 
 ```text
 .
@@ -38,12 +38,12 @@
 
 ---
 
-## 把你的计算规则或展示想法做成可用的小工具
+## Turn your calculation rules or presentation idea into a usable little tool
 
-[![接单中](https://img.shields.io/badge/状态-接单中-2ea44f?style=for-the-badge)](mailto:mootszuzegajiyuxi@gmail.com)
+[![status: available for hire](https://img.shields.io/badge/status-available%20for%20hire-2ea44f?style=for-the-badge)](mailto:mootszuzegajiyuxi@gmail.com)
 
-可沟通付费开发：按明确规则制作 Python 计算小工具，调整网页布局与交互，或制作可旋转、调节和暂停的 3D 互动展示页面。
+Paid development is available: Python tools for clearly defined calculations, layout and interaction adjustments for web pages, or rotating, adjustable, pausable 3D interactive demos.
 
-上面的项目是学习与功能演示，便于了解实现方向。具体能否承接、费用及交付时间，需要结合实际使用场景确认。
+The projects above are learning and feature demos that show the direction. Whether a request can be taken on, the price, and the delivery time depend on the actual use case.
 
-欢迎将目前的处理方式、需要解决的问题、参考效果和期望时间发到 [mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com)。先把需求说清楚，再确定定制方案。
+Send your current process, the problem you need solved, reference effects, and your expected timeline to [mootszuzegajiyuxi@gmail.com](mailto:mootszuzegajiyuxi@gmail.com). Let's clarify the requirements first, then decide on the approach.
